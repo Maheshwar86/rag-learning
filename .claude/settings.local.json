@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 rag_system.py)",
+      "Bash(/home/dtaoofficial/Music/Rag/venv/bin/python /home/dtaoofficial/Music/Rag/rag_system.py)"
+    ]
+  }
+}
